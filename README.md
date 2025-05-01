@@ -39,7 +39,7 @@ Make sure you have **Python 3.8+** and **pip** installed.
 
 ```bash
 # 1. Clone the repository
-git clone <repository-url>
+git clone https://github.com/chethanv-20/smart-docs.git
 cd smart-docs
 
 # 2. Install dependencies
